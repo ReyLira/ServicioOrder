@@ -1,13 +1,13 @@
-package com.example.reto13;
+package com.vallegrande;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Reto13Application {
+public class Reto12Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Reto13Application.class, args);
+        SpringApplication.run(Reto12Application.class, args);
     }
 
 }
