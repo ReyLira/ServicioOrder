@@ -15,4 +15,9 @@
       ddl-auto: create
 server:
   port: 8001
+  
+  
+ - Declaracion postman
+
+http://localhost:8001/ms-product/v1/order
 
