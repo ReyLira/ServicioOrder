@@ -1,23 +1,2 @@
-# order
-
--aplication-yml
-
-  spring:
-  datasource:
-    driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/postgres
-    username: postgres
-    password: root
-  jpa:
-    database: postgresql
-    show-sql: true
-    hibernate:
-      ddl-auto: create
-server:
-  port: 8001
-  
-  
- - Declaracion postman
-
-http://localhost:8001/ms-product/v1/order
-
+# Service Order
+Implementación de Servicio Orden
